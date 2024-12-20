@@ -24,6 +24,7 @@ cd c:\PATHTOFOLDER
 ```
 python main.py
 ```
+4. RECOMMENDED: Run Database Seeder (main menu point 8) first
 
 ---
 
